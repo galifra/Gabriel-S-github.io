@@ -12,3 +12,4 @@ You can download my resume [here](assets/GabrielS_Resume.pdf).
 - Completed a front-end development bootcamp
 - Built multiple projects using HTML, CSS, React, and JavaScript
 - Contributed to open-source projects on GitHub
+
