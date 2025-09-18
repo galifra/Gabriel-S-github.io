@@ -6,7 +6,7 @@ permalink: /resume
 
 # Resume
 
-You can download my resume [[here](assets/GabrielS_Resume.pdf).](https://docs.google.com/document/d/1ch1dTCRVSnN7zjtijZm3dEEirqiSwxfBC1ISs6WzaLs/edit?usp=sharing)}
+You can download my resume [here](assets/GabrielS_Resume.pdf).
 
 ## Key Achievements
 - Completed a front-end development bootcamp
