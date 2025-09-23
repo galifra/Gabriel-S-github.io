@@ -3,23 +3,33 @@ layout: page
 title: "Home"
 permalink: /
 ---
-# Hello, my name is Gabriel Schmidt!
+# Welcome! I'm Gabriel Schmidt 👋  
 
-I am an aspiring web developer with skills in **HTML, CSS, JavaScript, and React**.  
-I enjoy building projects that solve real-world problems and help people interact with technology in meaningful ways.  
+I’m a passionate and motivated developer with a strong foundation in **front-end development** and a growing expertise in building full-stack applications. My journey into tech has been fueled by curiosity and a drive to create tools that make people’s lives easier.  
 
-My goal is to join a team where I can grow as a developer, contribute to exciting projects, and continue learning new technologies.
+💻 **Technical Skills:**  
+- Front-End: HTML, CSS, JavaScript, React  
+- Back-End: Node.js, Express  
+- Tools & Version Control: Git, GitHub, Jekyll, GitHub Pages  
 
-<img width="274" height="274" alt="image" src="https://github.com/user-attachments/assets/a3af2005-de28-4908-9b82-0fe5e9d764f8" />
+🚀 **What I’m Working On:**  
+I recently built **BEYONDINVENTORY**, an app that helps users store and organize the location of their belongings. I’m excited to continue developing innovative projects that solve real-world problems.  
 
-<img width="372" height="274" alt="image" src="https://github.com/user-attachments/assets/aa16cd1c-15b6-49cd-b460-644bdd67b7f2" />
+🎯 **Career Goals:**  
+I’m seeking opportunities where I can contribute to a collaborative team, continue to grow my technical skills, and make an impact through creative and user-friendly applications.  
 
+---
 
+<img width="274" height="274" alt="image" src="https://github.com/user-attachments/assets/a3af2005-de28-4908-9b82-0fe5e9d764f8" />  
+<img width="372" height="274" alt="image" src="https://github.com/user-attachments/assets/aa16cd1c-15b6-49cd-b460-644bdd67b7f2" />  
+
+---
 
 # Contact Me  
 
 I’d love to connect!  
 
-Email: gabrielukas@yahoo.com
-LinkedIn: https://www.linkedin.com/feed/
-GitHub: https://github.com/galifra
+- 📧 Email: [gabrielukas@yahoo.com](mailto:gabrielukas@yahoo.com)  
+- 💼 LinkedIn: [linkedin.com/feed](https://www.linkedin.com/feed/)  
+- 🖥️ GitHub: [github.com/galifra](https://github.com/galifra)  
+
