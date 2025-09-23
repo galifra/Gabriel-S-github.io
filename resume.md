@@ -4,9 +4,9 @@ title: "Resume"
 permalink: /resume
 ---
 
-# Resume
+# Résumé
 
-You can download my resume [here](assets/GabrielS_Resume.pdf).
+You can download my résumé here: [Download PDF](assets/GabrielS_Resume.pdf)
 
 ## Key Achievements
 - Completed a front-end development bootcamp
