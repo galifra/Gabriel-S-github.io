@@ -6,7 +6,6 @@ permalink: /
 <div class="container">
 
   <header class="site-hero">
-    <img class="avatar" alt="Gabriel Schmidt" src="https://github.com/user-attachments/assets/a3af2005-de28-4908-9b82-0fe5e9d764f8" />
     <div class="hero-text">
       <h1>Welcome! I'm Gabriel Schmidt 👋</h1>
       <p>I’m a passionate and motivated developer with a strong foundation in <strong>front-end development</strong> and a growing expertise in building full-stack applications. My journey into tech has been fueled by curiosity and a drive to create tools that make people’s lives easier.</p>
