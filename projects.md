@@ -3,21 +3,35 @@ layout: page
 title: "Projects"
 permalink: /projects
 ---
-## BEYONDINVENTORY
+<div class="container">
 
-**Description:**  
-BEYONDINVENTORY is an inventory-management app that helps users catalog, organize, and quickly locate their personal belongings. Users can create hierarchical locations (e.g., Home → Attic → Box A), add items with photos and metadata (name, description, tags, serial/SKU, value), and use search and filters to find items instantly. The app supports exporting inventories as CSV for backups or insurance, and is designed to be mobile-friendly so users can add photos while walking through their space.
+  <header class="site-hero">
+    <h1>Projects</h1>
+    <p>Here you’ll find highlights of my work — apps and tools I’ve built to solve real-world problems and explore new technologies.</p>
+  </header>
 
-**Key features:**
-- Create and nest locations (rooms, boxes, containers)  
-- Add items with photos, tags, and detailed metadata  
-- Search and filter by name, tag, location, or keyword  
-- Export/import CSV for backups or sharing  
-- Optional multi-device sync and user accounts for cross-device use
+  <section class="project-card">
+    <h2>BEYONDINVENTORY</h2>
 
-**Technologies (example):** React, React Router, localStorage (MVP)
+    <p><strong>Description:</strong><br>
+    BEYONDINVENTORY is an inventory-management app that helps users catalog, organize, and quickly locate their personal belongings. Users can create hierarchical locations (e.g., <em>Home → Attic → Box A</em>), add items with photos and metadata (name, description, tags, serial/SKU, value), and use search and filters to find items instantly. The app supports exporting inventories as CSV for backups or insurance, and is designed to be mobile-friendly so users can add photos while walking through their space.</p>
 
-<img width="2208" height="1201" alt="Screenshot 2025-09-23 163758" src="https://github.com/user-attachments/assets/d905fcb1-3123-4945-8afa-bbb639d6d67f" />
+    <h3>Key Features:</h3>
+    <ul>
+      <li>Create and nest locations (rooms, boxes, containers)</li>
+      <li>Add items with photos, tags, and detailed metadata</li>
+      <li>Search and filter by name, tag, location, or keyword</li>
+      <li>Export/import CSV for backups or sharing</li>
+      <li>Optional multi-device sync and user accounts for cross-device use</li>
+    </ul>
 
-**GitHub Link:** https://github.com/galifra/BeyondInventory
+    <h3>Technologies:</h3>
+    <p>React, React Router, localStorage (MVP)</p>
 
+    <img class="project-screenshot" width="800" alt="BEYONDINVENTORY screenshot" src="https://github.com/user-attachments/assets/d905fcb1-3123-4945-8afa-bbb639d6d67f" />
+
+    <p><strong>GitHub Link:</strong>  
+    <a href="https://github.com/galifra/BeyondInventory">github.com/galifra/BeyondInventory</a></p>
+  </section>
+
+</div>
